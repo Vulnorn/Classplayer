@@ -13,3 +13,18 @@ C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\refint\ClassPlayer.
 C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ClassPlayer.pdb
 C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ClassPlayer.genruntimeconfig.cache
 C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ref\ClassPlayer.dll
+C:\Users\1\Documents\GitHub\Classplayer\bin\Debug\net6.0\ClassPlayer.exe
+C:\Users\1\Documents\GitHub\Classplayer\bin\Debug\net6.0\ClassPlayer.deps.json
+C:\Users\1\Documents\GitHub\Classplayer\bin\Debug\net6.0\ClassPlayer.runtimeconfig.json
+C:\Users\1\Documents\GitHub\Classplayer\bin\Debug\net6.0\ClassPlayer.dll
+C:\Users\1\Documents\GitHub\Classplayer\bin\Debug\net6.0\ClassPlayer.pdb
+C:\Users\1\Documents\GitHub\Classplayer\obj\Debug\net6.0\ClassPlayer.csproj.AssemblyReference.cache
+C:\Users\1\Documents\GitHub\Classplayer\obj\Debug\net6.0\ClassPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\GitHub\Classplayer\obj\Debug\net6.0\ClassPlayer.AssemblyInfoInputs.cache
+C:\Users\1\Documents\GitHub\Classplayer\obj\Debug\net6.0\ClassPlayer.AssemblyInfo.cs
+C:\Users\1\Documents\GitHub\Classplayer\obj\Debug\net6.0\ClassPlayer.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\GitHub\Classplayer\obj\Debug\net6.0\ClassPlayer.dll
+C:\Users\1\Documents\GitHub\Classplayer\obj\Debug\net6.0\refint\ClassPlayer.dll
+C:\Users\1\Documents\GitHub\Classplayer\obj\Debug\net6.0\ClassPlayer.pdb
+C:\Users\1\Documents\GitHub\Classplayer\obj\Debug\net6.0\ClassPlayer.genruntimeconfig.cache
+C:\Users\1\Documents\GitHub\Classplayer\obj\Debug\net6.0\ref\ClassPlayer.dll

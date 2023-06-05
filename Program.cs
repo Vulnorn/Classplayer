@@ -10,24 +10,24 @@ namespace ClassPlayer
         {
             Player player = new Player("Player", 1);
 
-            player.ShowStatsPlayer();
+            player.ShowStats();
         }
     }
 
     class Player
     {
-        public string Name;
+        string _name;
         public int Level;
 
         public Player(string name, int level) 
         { 
-            Name = name;
+            _name = name;
             Level = level;
         }
 
-        public void ShowStatsPlayer() 
+        public void ShowStats() 
         {
-            Console.WriteLine($"Имя Игрока {Name}, Уровень Игрока - {Level}");
+            Console.WriteLine($"Имя Игрока {_name}, Уровень Игрока - {Level}");
             Console.ReadKey();
         }
     }
