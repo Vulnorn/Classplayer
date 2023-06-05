@@ -16,18 +16,18 @@ namespace ClassPlayer
 
     class Player
     {
-        string _name;
-        public int Level;
+        private string _name;
+        private  int _level;
 
         public Player(string name, int level) 
         { 
             _name = name;
-            Level = level;
+            _level = level;
         }
 
         public void ShowStats() 
         {
-            Console.WriteLine($"Имя Игрока {_name}, Уровень Игрока - {Level}");
+            Console.WriteLine($"Имя Игрока {_name}, Уровень Игрока - {_level}");
             Console.ReadKey();
         }
     }
