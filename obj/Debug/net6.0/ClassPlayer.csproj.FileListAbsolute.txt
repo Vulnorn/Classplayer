@@ -1,0 +1,15 @@
+C:\Program Files (x86)\VSProect\ClassPlayer\bin\Debug\net6.0\ClassPlayer.exe
+C:\Program Files (x86)\VSProect\ClassPlayer\bin\Debug\net6.0\ClassPlayer.deps.json
+C:\Program Files (x86)\VSProect\ClassPlayer\bin\Debug\net6.0\ClassPlayer.runtimeconfig.json
+C:\Program Files (x86)\VSProect\ClassPlayer\bin\Debug\net6.0\ClassPlayer.dll
+C:\Program Files (x86)\VSProect\ClassPlayer\bin\Debug\net6.0\ClassPlayer.pdb
+C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ClassPlayer.csproj.AssemblyReference.cache
+C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ClassPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ClassPlayer.AssemblyInfoInputs.cache
+C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ClassPlayer.AssemblyInfo.cs
+C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ClassPlayer.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ClassPlayer.dll
+C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\refint\ClassPlayer.dll
+C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ClassPlayer.pdb
+C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ClassPlayer.genruntimeconfig.cache
+C:\Program Files (x86)\VSProect\ClassPlayer\obj\Debug\net6.0\ref\ClassPlayer.dll
